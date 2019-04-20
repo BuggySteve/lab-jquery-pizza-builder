@@ -96,3 +96,26 @@ crustBtn.click(function () {
   }
   totalPriceEl.html(totalPrice);
 })
+
+
+
+
+
+// function togglePepperoni () {
+//   this.
+ 
+//   $(".pep").toggle("pep");
+//   pepperoniBtn.toggleClass("active");
+//   $("li:contains('$1 pepperoni')").toggle(this);
+// }
+
+// pepperoniBtn.click(function() {
+//   togglePepperoni();
+//   if(pepperoniBtn.hasClass("active")) {
+//     totalPrice += 1;
+//   }
+//   else {
+//     totalPrice -= 1;
+//   }
+//   totalPriceEl.html(totalPrice);
+// })
